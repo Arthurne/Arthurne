@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Olá 👋! Meu nome é Arthur Neto e sou Estudante de Sistema de Informação (SI)</h2>
+<h2 data-importer="text" align="left">Olá! 👋 Meu nome é Arthur Neto. Sou estudante de Sistemas de Informação e compartilho aqui meus projetos, estudos e experiências na área de tecnologia.</h2>
 
 ###
 
