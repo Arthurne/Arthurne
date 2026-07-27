@@ -1,40 +1,96 @@
-<h2 data-importer="text" align="left">Olá! 👋 Meu nome é Arthur Neto. Sou estudante de Sistemas de Informação e compartilho aqui meus projetos, estudos e experiências na área de tecnologia.</h2>
+<!-- Parte superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Arthurne/Arthurne/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Arthurne/Arthurne/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+# 👋 Olá, eu sou Arthur Neto
+
+💻 Estudante de Sistemas de Informação
+
+🚀 Desenvolvedor focado em Java e Python
+
+📚 Atualmente estudando Estruturas de Dados, Banco de Dados e Desenvolvimento de Software
+
+🎯 Compartilhando projetos, estudos e experiências na área de tecnologia
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/736x/94/4b/c8/944bc8639a85065beebddd72f6a33b64.jpg"  />
+<div align="center">
 
-###
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurne&show_icons=true&theme=dracula"/>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurne&layout=compact&theme=dracula"/>
+
 </div>
 
-###
+<br>
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,git,github,mysql,vscode,idea,html,css" />
+
 </div>
 
-###
+<br>
 
-<br clear="both">
+<div align="center">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Arthurne/Arthurne/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-###
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+🏥 Sistema Hospitalar
+
+🤖 DayZ Store Bot
+
+📚 Projetos Acadêmicos de Sistemas de Informação
+
+💡 Exercícios e Estudos de Estruturas de Dados
+
+---
+
+<div align="center">
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/SEULINK">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://spotify.com">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Arthurne/Arthurne/snake-output/snake.svg"/>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
