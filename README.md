@@ -9,15 +9,15 @@ Olá! Eu sou Arthur Neto
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">
 </h2>
 
-💻 Estudante de Sistemas de Informação
+💻 Estudante de Sistemas de Informação  
 
-☕ Desenvolvedor Java
+☕ Desenvolvedor Java  
 
-🐍 Desenvolvedor Python
+🐍 Desenvolvedor Python  
 
-📚 Atualmente estudando Estruturas de Dados, Banco de Dados e Desenvolvimento de Software
+📚 Atualmente estudando Estruturas de Dados, Banco de Dados e Desenvolvimento de Software  
 
-🚀 Compartilhando projetos, estudos e experiências na área de tecnologia
+🚀 Compartilhando projetos, estudos e experiências na área de tecnologia  
 
 </div>
 
@@ -35,7 +35,7 @@ Olá! Eu sou Arthur Neto
 
 <div align="center">
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -61,15 +61,15 @@ Olá! Eu sou Arthur Neto
 
 <div align="center">
 
-### 📌 Projetos em Destaque
+## 📌 Projetos em Destaque
 
-🏥 Sistema Hospitalar
+🏥 Sistema Hospitalar  
 
-🤖 DayZ Store Bot
+🤖 DayZ Store Bot  
 
-📚 Projetos Acadêmicos de Sistemas de Informação
+📚 Projetos Acadêmicos de Sistemas de Informação  
 
-💡 Exercícios e Estudos de Estruturas de Dados
+💡 Exercícios e Estudos de Estruturas de Dados  
 
 </div>
 
@@ -77,29 +77,29 @@ Olá! Eu sou Arthur Neto
 
 <div align="center">
 
-### 🌐 Redes Sociais
+## 🌐 Redes Sociais
 
 <a href="mailto:SEUEMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Arthurne">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://discord.com">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://spotify.com">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 📈 Contribuições
+## 📈 Contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurne&theme=dracula"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurne&bg_color=0D1117&color=C77DFF&line=6A0DAD&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
