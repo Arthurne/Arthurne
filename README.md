@@ -6,7 +6,7 @@
 <h2>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 Olá! Eu sou Arthur Neto
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="25px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">
 </h2>
 
 💻 Estudante de Sistemas de Informação  
@@ -107,9 +107,7 @@ Olá! Eu sou Arthur Neto
 
 <div align="center">
 
-## 🐍 Snake de Contribuições
-
-<img src="https://raw.githubusercontent.com/Arthurne/Arthurne/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Arthurne/Arthurne/snake-output/snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -117,13 +115,9 @@ Olá! Eu sou Arthur Neto
 
 <div align="center">
 
-## 👀 Visualizações do Perfil
-
 <img src="https://komarev.com/ghpvc/?username=Arthurne&label=Visualizações%20do%20Perfil&color=6A0DAD&style=for-the-badge"/>
 
 </div>
-
----
 
 <!-- Parte inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
