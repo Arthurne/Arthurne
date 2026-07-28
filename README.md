@@ -105,7 +105,11 @@ Olá! Eu sou Arthur Neto
 
 ## 🐍 Snake de Contribuições
 
-<img src="https://raw.githubusercontent.com/Arthurne/Arthurne/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthurne/Arthurne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthurne/Arthurne/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Arthurne/Arthurne/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -119,4 +123,5 @@ Olá! Eu sou Arthur Neto
 
 ---
 
+<!-- Parte inferior -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
