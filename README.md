@@ -6,7 +6,7 @@
 <h2>
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 Olá! Eu sou Arthur Neto
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25px">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="25px">
 </h2>
 
 💻 Estudante de Sistemas de Informação  
@@ -107,7 +107,9 @@ Olá! Eu sou Arthur Neto
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Arthurne/Arthurne/snake-output/snake.svg" alt="Snake animation"/>
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurne&theme=dracula"/>
 
 </div>
 
